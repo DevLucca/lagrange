@@ -1,0 +1,1 @@
+print('Acertou a resposta errada, Ze... VAMO MEU BAHIA!')
